@@ -1,0 +1,6 @@
+Project Ideas:
+1. Pokemon fighting app where it connects to the poki api and lets you create a team and fight each other using their attacks and stats
+2. E-commerce site that lets a user pick and purchase items. I need to think about what the products would be. Very popular project, but very relevant too.
+3. Build out my myfitnesspal clone by switching it to react and add a database.
+4. Make a social media clone like twitter
+5. Dog adoption website
